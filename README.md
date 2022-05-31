@@ -112,7 +112,7 @@ minikube dashboard --url
 
 copy past the url from previous command in your browser
 
-![dashboard](./dashboard.PNG)
+![dashboard](./dashboard.png)
 
 ---
 # Enjoy!
