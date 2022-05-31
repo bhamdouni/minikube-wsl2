@@ -100,7 +100,7 @@ check cluster status
 kubectl get nodes
 kubectl get all -A
 ```
-![cluster status](./cluster-status.png)
+![cluster status](./cluster-status.jpg)
 
 
 start dashboard
